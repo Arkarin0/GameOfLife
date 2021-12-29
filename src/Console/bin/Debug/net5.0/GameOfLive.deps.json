@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GameOfLive/1.0.0": {
+        "dependencies": {
+          "GameOfLive.Core": "1.0.0"
+        },
+        "runtime": {
+          "GameOfLive.dll": {}
+        }
+      },
+      "GameOfLive.Core/1.0.0": {
+        "runtime": {
+          "GameOfLive.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameOfLive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameOfLive.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

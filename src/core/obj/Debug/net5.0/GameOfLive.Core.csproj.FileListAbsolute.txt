@@ -1,0 +1,12 @@
+C:\Users\sobon\source\repos\GameOfLife\src\core\obj\Debug\net5.0\GameOfLive.Core.csproj.AssemblyReference.cache
+C:\Users\sobon\source\repos\GameOfLife\src\core\obj\Debug\net5.0\GameOfLive.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sobon\source\repos\GameOfLife\src\core\obj\Debug\net5.0\GameOfLive.Core.AssemblyInfoInputs.cache
+C:\Users\sobon\source\repos\GameOfLife\src\core\obj\Debug\net5.0\GameOfLive.Core.AssemblyInfo.cs
+C:\Users\sobon\source\repos\GameOfLife\src\core\obj\Debug\net5.0\GameOfLive.Core.csproj.CoreCompileInputs.cache
+C:\Users\sobon\source\repos\GameOfLife\src\core\bin\Debug\net5.0\GameOfLive.Core.deps.json
+C:\Users\sobon\source\repos\GameOfLife\src\core\bin\Debug\net5.0\GameOfLive.Core.dll
+C:\Users\sobon\source\repos\GameOfLife\src\core\bin\Debug\net5.0\ref\GameOfLive.Core.dll
+C:\Users\sobon\source\repos\GameOfLife\src\core\bin\Debug\net5.0\GameOfLive.Core.pdb
+C:\Users\sobon\source\repos\GameOfLife\src\core\obj\Debug\net5.0\GameOfLive.Core.dll
+C:\Users\sobon\source\repos\GameOfLife\src\core\obj\Debug\net5.0\ref\GameOfLive.Core.dll
+C:\Users\sobon\source\repos\GameOfLife\src\core\obj\Debug\net5.0\GameOfLive.Core.pdb
