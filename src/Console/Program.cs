@@ -21,8 +21,8 @@ namespace GameOfLife
 
 
             var game = new Game(width, height);
-            //game.CurrentRules = new ConvayRuleset();
-            game.CurrentRules = new CopyRuleset();
+            game.CurrentRules = new ConvayRuleset();
+            //game.CurrentRules = new CopyRuleset();
 
             Game.GeneratePopulation(game, 3);
 
