@@ -3,11 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
   
-    <Version>$(GameOfLiveConsoleVersion)</Version>  
+    <Version>$(GameOfLifeConsoleVersion)</Version>  
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\core\GameOfLive.Core.csproj" />
+    <ProjectReference Include="..\core\GameOfLife.Core.csproj" />
   </ItemGroup>
 
 </Project>

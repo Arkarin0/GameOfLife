@@ -29,10 +29,10 @@
   <PropertyGroup>
     
     <!--Versions of the diffrent libs.-->
-    <GameOfLiveCoreVersion>1.0.0</GameOfLiveCoreVersion>
+    <GameOfLifeCoreVersion>1.0.0</GameOfLifeCoreVersion>
 
     <!--Versions of the diffrent games.-->
-    <GameOfLiveConsoleVersion>1.0.0</GameOfLiveConsoleVersion>
+    <GameOfLifeConsoleVersion>1.0.0</GameOfLifeConsoleVersion>
         
   </PropertyGroup>
 

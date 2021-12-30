@@ -7,11 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{EA7814C3-4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console", "Console", "{91FB9CF7-7CD4-48F0-BB49-A48EEA211DC1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOfLive.Core", "src\core\GameOfLive.Core.csproj", "{594FD95A-E05F-41BC-983A-37B684F02EAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOfLife.Core", "src\core\GameOfLife.Core.csproj", "{594FD95A-E05F-41BC-983A-37B684F02EAD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOfLive.Core.Tests", "src\tests\core\GameOfLive.Core.Tests.csproj", "{3B0E65F8-B1E3-436F-AFCC-702669E6CFA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOfLife.Core.Tests", "src\tests\core\GameOfLife.Core.Tests.csproj", "{3B0E65F8-B1E3-436F-AFCC-702669E6CFA0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOfLive", "src\Console\GameOfLive.csproj", "{237DBFB0-E5C8-4436-A266-AFEF991FF3C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOfLife", "src\Console\GameOfLife.csproj", "{237DBFB0-E5C8-4436-A266-AFEF991FF3C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
