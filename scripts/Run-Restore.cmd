@@ -1,1 +1,1 @@
-call "%~dp0..\Restore.cmd" -c "Release" -officialSourceBranchName "Main" -officialBuildId "ManualTest" 
+call "%~dp0..\Restore.cmd" -c "Release" -officialSourceBranchName "master" -officialBuildId "ManualTest" 
