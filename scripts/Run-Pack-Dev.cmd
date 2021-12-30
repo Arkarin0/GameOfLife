@@ -1,3 +1,3 @@
 @echo off
 echo Testing Nuget packing
-powershell -ExecutionPolicy ByPass -NoProfile -command "& """%~dp0..\eng\build.ps1""" -pack -c Release -officialSourceBranchName Dev -officialBuildId ManualTest"
+powershell -ExecutionPolicy ByPass -NoProfile -command "& """%~dp0..\eng\Test-BeforeCheckIn.ps1""" -pack -branchname """Dev""" "

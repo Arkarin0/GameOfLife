@@ -1,1 +1,1 @@
-call "%~dp0..\Restore.cmd" -c "Release" -officialSourceBranchName "master" -officialBuildId "ManualTest" 
+powershell -ExecutionPolicy ByPass -NoProfile -command "& """%~dp0..\eng\Test-BeforeCheckIn.ps1""" -restore"
