@@ -1,0 +1,17 @@
+{
+  "sdk": {
+    "version": "5.0.201",
+    "allowPrerelease": false,
+    "rollForward": "major"
+  },
+  "tools": {
+    "dotnet": "5.0.201",
+    "vs": {
+      "version": "16.9"
+    },
+    "xcopy-msbuild": "16.9.0"
+  },
+  "msbuild-sdks": {
+   
+  }
+}

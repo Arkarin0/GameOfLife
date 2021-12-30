@@ -1,0 +1,1 @@
+call "%~dp0..\Build.cmd" -c "Release" -officialSourceBranchName "Main" -officialBuildId "ManualTest" 

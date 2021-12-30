@@ -1,0 +1,30 @@
+{
+  "feeds": {
+      "Feed1": "URLToNugetOfFeed1",
+      "Feed2": "URLToNugetOfFeed2"
+  },
+  "packages": {
+    "default": {
+      "MyNugetPackage": "Feed2"
+    },
+    "production": {
+      "MyNugetPackage": "Feed1"
+    }
+  },
+  "branches": {
+    "Dev": {
+      "nugetKind": ["PerBuildPreRelease"],
+      "packageFeeds": "default"
+    },
+    "Main": {
+      "nugetKind": ["Release"]
+    }        
+  },
+  "releases": {
+    "Main": {
+      "nugetKind": "Release",
+      "version": "1.0.*",
+      "packageFeeds": "production"
+    }
+  }
+}
