@@ -16,12 +16,12 @@
       "nugetKind": ["PerBuildPreRelease"],
       "packageFeeds": "default"
     },
-    "Main": {
+    "master": {
       "nugetKind": ["Release"]
     }        
   },
   "releases": {
-    "Main": {
+    "master": {
       "nugetKind": "Release",
       "version": "1.0.*",
       "packageFeeds": "production"
